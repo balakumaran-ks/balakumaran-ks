@@ -15,11 +15,11 @@ I'm an aspiring Software Developer with a passion for building innovative soluti
 
 ## 🎯 Current Focus
 
--   🔭 Working on: **[Current Project]** <!-- TODO: Add your current main project, e.g., "A real-time chat application" -->
--   🌱 Learning: **[Technology/Skill]** <!-- TODO: Add what you're currently learning, e.g., "Advanced GoLang concepts and distributed systems" -->
+-   🔭 Working on: **Chess Engine** <!-- TODO: Add your current main project, e.g., "A real-time chat application" -->
+-   🌱 Learning: **Spring Boot** <!-- TODO: Add what you're currently learning, e.g., "Advanced GoLang concepts and distributed systems" -->
 -   👯 Looking to collaborate on: **Open Source Projects** focused on Web Development or Cloud Technologies.
--   💬 Ask me about: **[Your Expertise Areas]** <!-- TODO: Add your areas of expertise, e.g., "JavaScript, API design, or basic cloud deployments" -->
--   ⚡ Fun fact: **[Interesting fact about you]** <!-- TODO: Add a fun fact, e.g., "I once coded for 24 hours straight to finish a hackathon project!" -->
+-   💬 Ask me about: **Problem Solving(Not just DSA)** <!-- TODO: Add your areas of expertise, e.g., "JavaScript, API design, or basic cloud deployments" -->
+-   ⚡ Fun fact: **I consider myself mediocre at DSA** <!-- TODO: Add a fun fact, e.g., "I once coded for 24 hours straight to finish a hackathon project!" -->
 
 ---
 
